@@ -15,7 +15,9 @@
     display: flex;
 }
 
-/* Section 1 styles */
+/* -----------------------
+        Section 1 styles 
+   ----------------------- */
 .section-part{
     width: 50%;
     padding-left: 10%;
@@ -64,7 +66,9 @@
     width: 426px;
 }
 
-/* Section 2 styles */
+/* -----------------------
+        Section 2 styles 
+   ----------------------- */
 .section-2{
     padding-bottom: 60px;
 }
@@ -121,4 +125,39 @@
     line-height: 24px;
     color: #424242;
     width: 315px;
+}
+
+/* -----------------------
+        Section 3 styles 
+   ----------------------- */
+.section-3-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 72px;
+}
+.section-3-left-part{
+    width: 400px;
+}
+.section-3-left-part img{
+    width: 400px;
+}
+.section-3-right-part{
+    width: 654px;
+}
+.section-3-4-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #333333;
+    padding-bottom: 17px;
+}
+.section-3-4-description{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #3E3E3E;
+    padding-bottom: 23px;
 }
