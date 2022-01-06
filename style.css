@@ -127,9 +127,9 @@
     width: 315px;
 }
 
-/* -----------------------
+/* --------------------------
         Section 3 styles 
-   ----------------------- */
+-------------------------- */
 .section-3{
     padding-bottom: 105px;
 }
@@ -165,6 +165,54 @@
     padding-bottom: 23px;
 }
 
-/* -----------------------
-        Section 4 styles 
-   ----------------------- */
+/* -------------------------
+        Section 4 styles
+-------------------------- */
+.section-4{
+    padding-bottom: 85px;
+}
+
+/* -------------------------
+        Section 5 styles
+-------------------------- */
+.section-5-elements{
+    display: flex;
+    justify-content: center;
+
+}
+.section-5-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 74px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+
+/* Form */
+.section-5-elements form input{
+    width: 379px;
+    height: 65px;
+    border-radius: 5px;
+    background-color: rgba(235,174,76,0);
+    border: 1px solid #bebebe;
+    font-size: 17px;
+    color: #3d3d3d;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+    margin-bottom: 25px;
+}
+.margin-right-100px{
+    margin-right: 100px;
+}
+#submit-button{
+    width: 399px;
+    background-color: #FF5959;
+    font-size: 21px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 0;
+}
