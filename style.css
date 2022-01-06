@@ -130,7 +130,10 @@
 /* -----------------------
         Section 3 styles 
    ----------------------- */
-.section-3-flex{
+.section-3{
+    padding-bottom: 105px;
+}
+.section-3-4-flex{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -161,3 +164,7 @@
     color: #3E3E3E;
     padding-bottom: 23px;
 }
+
+/* -----------------------
+        Section 4 styles 
+   ----------------------- */
